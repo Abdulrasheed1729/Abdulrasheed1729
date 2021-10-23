@@ -14,10 +14,13 @@
 ## What I'm currently learning
 * Dart
 * Flutter
+* Gap for Algebra
+* Algebraic Number Theory
 
 ## Favorite Quotes
 
 > "Talk is cheap, show me the code" -Linus Tovalds
+
 > "Sometimes the best advice is, no advice" -Evan Chen
 
 
