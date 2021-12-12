@@ -12,8 +12,7 @@
 * Bash
 * Algos and Data Structures
 ## What I'm currently learning
-* Dart
-* Flutter
+* Golang
 * Gap for Algebra
 * Algebraic Number Theory
 
