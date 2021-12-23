@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdulrasheed1729
 - 👀 I’m interested in Mathematics and Linux
-- 🌱 I’m currently learning anything
+- 🌱 I’m currently Dart and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ....
 ## My Favorites
@@ -12,7 +12,8 @@
 * Bash
 * Algos and Data Structures
 ## What I'm currently learning
-* Golang
+* Dart
+* Flutter 
 * Gap for Algebra
 * Algebraic Number Theory
 
