@@ -15,7 +15,6 @@
 * Dart
 * Flutter 
 * Gap for Algebra
-* Algebraic Number Theory
 
 ## Favorite Quotes
 
