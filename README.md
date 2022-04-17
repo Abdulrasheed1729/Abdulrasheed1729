@@ -1,20 +1,24 @@
 - 👋 Hi, I’m @Abdulrasheed1729
-- 👀 I’m interested in Mathematics and Linux
+- 👀 I’m interested in Mathematics and Computers
 - 🌱 I’m currently Dart and Flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ....
+- 💞️ I’m looking to collaborate on Flutter Project
+- 📫 How to reach me fawomath@gmail.com
 ## My Favorites
 * Mathematics
 * Linux
 * C++
 
 ## Stuffs I want to Learn
-* Bash
 * Algos and Data Structures
+* Digital Design and Computer Architecture
+* Assembly
+* VHDL
+
+
 ## What I'm currently learning
 * Dart
 * Flutter 
-* Gap for Algebra
+
 
 ## Favorite Quotes
 
