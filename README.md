@@ -7,12 +7,14 @@
 * Mathematics
 * Linux
 * C++
+* Golang
+* Flutter (Dart)
 
 ## Stuffs I want to Learn
 * Algos and Data Structures
 * Digital Design and Computer Architecture
 * Assembly
-* VHDL
+* SystemVerilog
 
 
 ## What I'm currently learning
@@ -22,9 +24,9 @@
 
 ## Favorite Quotes
 
-> "Talk is cheap, show me the code" -Linus Tovalds
+> Talk is cheap, show me the code -Linus Tovalds
 
-> "Sometimes the best advice is, no advice" -Evan Chen
+> Sometimes the best advice is, no advice -Evan Chen
 
 
 <!---
