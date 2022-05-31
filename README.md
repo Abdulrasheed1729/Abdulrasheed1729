@@ -29,6 +29,13 @@
 > Sometimes the best advice is, no advice -Evan Chen
 
 
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=beyzanurakkuzu&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats) 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=beyzanurakkuzu&theme=blue-green)](https://github.com/beyzanurakkuzu/github-readme-stats)
+
+
+
+
 <!---
 Abdulrasheed1729/Abdulrasheed1729 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
