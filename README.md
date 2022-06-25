@@ -20,6 +20,8 @@
 ## What I'm currently learning
 * Dart
 * Flutter 
+* Kotlin
+* Android
 
 
 ## Favorite Quotes
@@ -27,12 +29,6 @@
 > Talk is cheap, show me the code -Linus Tovalds
 
 > Sometimes the best advice is, no advice -Evan Chen
-
-### Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrasheed1729&show_icons=true&locale=en&layout=compact" alt="Abdulrasheed1729" /></p>
-<br />
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulrasheed1729&show_icons=true&locale=en" alt="Abdulrasheed1729" /></p>
 
 
 
