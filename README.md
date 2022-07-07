@@ -27,19 +27,25 @@
 * Bash
 * C/C++
 * Dart
+* Gap
 * Go
 * Julia
 * Kotlin
-* Lua
+* Lua (in progress)
+* Rust (in progress)
+* SageMath
 * TeX
-* VimScript
+* Vim script
 
 ## Tools
+* Alacritty
 * Android Studio
-* Gedit
+* GeoGebra
+* Gummi
 * IntelliJ
 * Linux
 * Lite XL
+* TeX Studio
 * Vim
 * VS Code
 
