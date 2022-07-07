@@ -49,6 +49,12 @@
 * Vim
 * VS Code
 
+### Goals
+* Become a computer programming polyglot.
+* Contribute more to open source projects..
+* Sleep more 😄
+* and all otrher good things......
+
 
 ## Favorite Quotes
 
