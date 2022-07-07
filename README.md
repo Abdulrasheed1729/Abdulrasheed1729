@@ -23,6 +23,26 @@
 * Kotlin
 * Android
 
+## Programming languages
+* Bash
+* C/C++
+* Dart
+* Go
+* Julia
+* Kotlin
+* Lua
+* TeX
+* VimScript
+
+## Tools
+* Android Studio
+* Gedit
+* IntelliJ
+* Linux
+* Lite XL
+* Vim
+* VS Code
+
 
 ## Favorite Quotes
 
