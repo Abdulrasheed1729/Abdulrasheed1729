@@ -44,6 +44,14 @@
 * TeX Studio
 * VS Code
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrasheed1729&show_icons=true&locale=en&layout=compact" alt="abdulrasheed" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulrasheed1729&show_icons=true&locale=en" alt="abdulrasheed" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrasheed1729&" alt="abdulrasheed" /></p>
+
+
 <!---### Goals
 * Become a computer programming polyglot.
 * Contribute more to open source projects..
