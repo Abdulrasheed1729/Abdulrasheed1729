@@ -45,7 +45,7 @@
 * VS Code
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrasheed1729&layout=compact&theme=gruvbox&langs_count=10&hide=html,css,makefile,cmake,c++)](https://github.com/Abdulrasheed1729/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrasheed1729&layout=compact&theme=dracula&langs_count=10&hide=html,css,makefile,cmake,c++)](https://github.com/Abdulrasheed1729/github-readme-stats)
 
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrasheed1729&show_icons=true&locale=en&layout=compact" alt="abdulrasheed" /></p>
