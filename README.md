@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Abdulrasheed1729
+<!--- - 👋 Hi, I’m @Abdulrasheed1729
 - 👀 I’m interested in Mathematics and Computers
 - 🌱 I’m currently Dart and Flutter
 - 💞️ I’m looking to collaborate on Flutter Project
@@ -53,9 +53,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulrasheed1729&show_icons=true&locale=en" alt="abdulrasheed" /></p>
 --->
-## Github Streak
+<!---## Github Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrasheed1729&" alt="abdulrasheed" /></p>
-
+--->
 
 <!---### Goals
 * Become a computer programming polyglot.
