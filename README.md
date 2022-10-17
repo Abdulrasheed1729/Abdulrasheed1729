@@ -1,9 +1,9 @@
-<!--- - 👋 Hi, I’m @Abdulrasheed1729
+- 👋 Hi, I’m @Abdulrasheed1729
 - 👀 I’m interested in Mathematics and Computers
 - 🌱 I’m currently Dart and Flutter
 - 💞️ I’m looking to collaborate on Flutter Project
 - 📫 How to reach me fawomath@gmail.com
-## My Favorites
+<!---## My Favorites
 * Mathematics
 * Linux
 * C++
@@ -22,18 +22,19 @@
 * Flutter 
 * Kotlin
 * Android
+-->
 
-### Languages and Tools
+<!---### Languages and Tools
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.vim.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" alt="vim" width="40" height="40"/> </a> <a href="https://www.go.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" alt="golang" width="40" height="40"/> </a> <a href="https://www.julialang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/julialang/julialang-icon.svg" alt="julia" width="40" height="40"/> </a>  </p>
-
-* C/C++
+-->
+<!--* C/C++
 * Gap
 * Lua (in progress)
 * Rust (in progress)
 * SageMath
 * TeX
-
-## Tools
+-->
+<!---## Tools
 * Alacritty
 * Android Studio
 * GeoGebra
@@ -43,7 +44,7 @@
 * Lite XL
 * TeX Studio
 * VS Code
-
+-->
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrasheed1729&layout=compact&theme=dracula&langs_count=10&hide=html,css)](https://github.com/Abdulrasheed1729/github-readme-stats)
@@ -53,9 +54,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulrasheed1729&show_icons=true&locale=en" alt="abdulrasheed" /></p>
 --->
-<!---## Github Streak
+## Github Streak
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrasheed1729&" alt="abdulrasheed" /></p>
---->
 
 <!---### Goals
 * Become a computer programming polyglot.
