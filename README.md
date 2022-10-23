@@ -5,6 +5,38 @@
 - 📫 How to reach me fawomath@gmail.com
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-15-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-51%20Thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 244 Contributions in the Year 2022
+ > 
+> 📦 85.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 21 Public Repositories 
+ > 
+> 🔑 2 Private Repositories  
+ > 
+**I Mostly Code in Dart** 
+
+```text
+Dart                     11 repos            █████████████░░░░░░░░░░░░   55.0% 
+TeX                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.0%
+
+```
+
+
+
+ Last Updated on 23/10/2022 10:14:24 UTC
 <!--END_SECTION:waka-->
 
 <!---## My Favorites
