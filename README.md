@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Flutter Project
 - 📫 How to reach me fawomath@gmail.com
 
+[![wakatime](https://wakatime.com/badge/user/77ab5371-6547-4bc7-8c52-e4db4ef4b66f.svg)](https://wakatime.com/@77ab5371-6547-4bc7-8c52-e4db4ef4b66f)
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
