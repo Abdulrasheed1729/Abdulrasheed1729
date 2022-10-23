@@ -47,15 +47,18 @@
 -->
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrasheed1729&layout=compact&theme=dracula&langs_count=10&hide=html,css)](https://github.com/Abdulrasheed1729/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrasheed1729&layout=compact&theme=tokyonight&langs_count=10&hide=html,css)](https://github.com/Abdulrasheed1729/github-readme-stats)
 
+
+## Github Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Abdulrasheed1729&show_icons=true&locale=en&theme=tokyonight)](https://github.com/Abdulrasheed1729/github-readme-stats)
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrasheed1729&show_icons=true&locale=en&layout=compact" alt="abdulrasheed" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdulrasheed1729&show_icons=true&locale=en" alt="abdulrasheed" /></p>
 --->
 ## Github Streak
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrasheed1729&" alt="abdulrasheed" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrasheed1729&theme=tokyonight" alt="abdulrasheed" /></p>
 
 <!---### Goals
 * Become a computer programming polyglot.
