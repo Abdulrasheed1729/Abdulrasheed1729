@@ -3,6 +3,10 @@
 - 🌱 I’m currently Dart and Flutter
 - 💞️ I’m looking to collaborate on Flutter Project
 - 📫 How to reach me fawomath@gmail.com
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!---## My Favorites
 * Mathematics
 * Linux
