@@ -9,7 +9,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-25%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-61%20Thousand%20lines%20of%20code-blue)
 
@@ -54,19 +54,16 @@ Sunday       36 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Africa/Lagos
 
 💬 Programming Languages: 
-Dart                     8 hrs 7 mins        █████████████████████░░░░   83.53% 
-Markdown                 1 hr 32 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.85% 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  9 hrs 44 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-resume_app               9 hrs 38 mins       ████████████████████████░   99.07% 
-flutter                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.93%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    9 hrs 44 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -83,7 +80,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/11/2022 01:25:27 UTC
+ Last Updated on 14/11/2022 01:23:18 UTC
 <!--END_SECTION:waka-->
 
 <!---## My Favorites
