@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @Abdulrasheed1729
 - 👀 I’m interested in Mathematics and Computers
-- 🌱 I’m currently Dart and Flutter
-- 💞️ I’m looking to collaborate on Flutter Project
+- 🌱 I’m currently learning Android and ROS2
+- 💞️ I’m looking to collaborate on open source Projects
 - 📫 How to reach me fawomath@gmail.com
+
+
+<!-- 
+[![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?titleAlign=center&showBorder=false&lineCount=2&theme=catppuccin_mocha&hideBg=true&hideTitle=true&line1=Flutter,Flutter,02569B;Dart,Dart,0175C2;Latex,Latex,008080;ROS,ROS,22314E;Python,Python,3776AB;&line2=Kotlin,Kotlin,7F52FF;Android,Android,3DDC84;)](https://github-readme-tech-stack.vercel.app/api/cards?titleAlign=center&showBorder=false&lineCount=2&theme=catppuccin_mocha&hideBg=true&hideTitle=true&line1=Flutter,Flutter,02569B;Dart,Dart,0175C2;Latex,Latex,008080;ROS,ROS,22314E;Python,Python,3776AB;&line2=Kotlin,Kotlin,7F52FF;Android,Android,3DDC84;) -->
 
 
 
@@ -49,11 +53,11 @@
 -->
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrasheed1729&layout=compact&theme=tokyonight&langs_count=10&hide=html,css)](https://github.com/Abdulrasheed1729/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrasheed1729&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,scss,cmake,js)](https://github.com/Abdulrasheed1729/github-readme-stats)
 
 
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=Abdulrasheed1729&show_icons=true&locale=en&theme=tokyonight)](https://github.com/Abdulrasheed1729/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Abdulrasheed1729&show_icons=true&locale=en&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/Abdulrasheed1729/github-readme-stats)
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdulrasheed1729&show_icons=true&locale=en&layout=compact" alt="abdulrasheed" /></p>
 
